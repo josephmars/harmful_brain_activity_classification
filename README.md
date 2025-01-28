@@ -43,7 +43,9 @@ The competition addresses the pressing need for automating the detection and cla
 ### Model Architecture
 
 The original model architecture utilized EfficientNetV2 B2, a convolutional neural network (CNN) model from KerasCV's collection of pretrained models. We replaced this with MobileNetV3 Large to explore its performance characteristics.
-![Original Architecture](assets/images/model_architecture.png)
+<p align="center">
+  <img src="assets/images/model_architecture.png" width="70%">
+</p>
 
 ### Training Process
 
@@ -60,7 +62,9 @@ Where $P$ is the true distribution and $Q$ is the predicted distribution. We use
 
 We opted for MobileNetV3 instead of EfficientNetV2, leading to a total of 3,002,118 parameters, with 2,977,718 trainable parameters.
 
-![Modified Architecture](assets/images/modified_architecture.png)
+<p align="center">
+  <img src="assets/images/modified_architecture.png" width="70%">
+</p>
 
 ## Results
 
