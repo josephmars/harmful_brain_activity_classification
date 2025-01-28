@@ -1,0 +1,10 @@
+keras_cv==0.8.2
+tensorflow==2.15.0
+keras==3.0.4
+pandas
+numpy
+opencv-python
+tqdm
+joblib
+matplotlib
+scikit-learn 
