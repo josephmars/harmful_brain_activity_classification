@@ -23,7 +23,7 @@
 This project is part of the Kaggle competition [HMS - Harmful Brain Activity Classification](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification), which aims to automate the analysis of electroencephalography (EEG) signals to detect seizures and harmful brain activity in critically ill patients. The competition is hosted by the Sunstella Foundation and seeks to enhance EEG pattern classification accuracy, crucial for neurocritical care and drug development. 
 
 <p align="center">
-  <img src"assets/images/EEG.png" width="70%">
+  <img src="assets/images/EEG.png" width="70%">
 </p>
 
 ## Abstract
