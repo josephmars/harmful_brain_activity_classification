@@ -1,3 +1,5 @@
+<img src="assets/images/thumbnail.png" width="100%">
+
 # Harmful Brain Activity Classification with MobileNetV3 using KerasCV
 
 ## Table of Contents
